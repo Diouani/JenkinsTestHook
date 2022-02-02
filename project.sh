@@ -1,1 +1,1 @@
-echo "This is a test Fist Push12" 
+echo "This is a test Fist Pu" 
